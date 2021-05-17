@@ -7,4 +7,6 @@ This repo is dedicated to development notes dedicated for public use. See below 
 * Devops
 * Linux
 
+# Backend
 
+* Wordpress **[WRD](./backend/wordpress)**.
