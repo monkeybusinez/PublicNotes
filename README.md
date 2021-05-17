@@ -9,4 +9,4 @@ This repo is dedicated to development notes dedicated for public use. See below 
 
 # Backend
 
-* Wordpress **[WRD](./backend/wordpress.md)**.
+* **[Wordpress](./backend/wordpress.md)**.
